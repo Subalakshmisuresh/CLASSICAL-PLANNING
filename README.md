@@ -44,10 +44,7 @@ print(plan)
 ['move_A_to_B', 'move_B_to_C']
 ```
 # Program
-```
-Name: JAYABHARATHI S
-Register Number: 212222100013
-```
+
 ```
 def is_goal_state(current_state, goal_state):
     return current_state == goal_state
